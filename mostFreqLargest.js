@@ -24,7 +24,7 @@ function getTotal(arrNumber) {
       return `''`;
   }
   else {
-  return `angka paling besar adalah ${a} dan jumlah kemunculan sebanyak ${total}`
+  return `angka paling besar adalah ${a} dan jumlah kemunculan sebanyak ${total} kali`
   }
 }
   
